@@ -1,0 +1,4 @@
+([('system_info',
+   '/Users/yasiriranasinghe/COBSCCOMP212P-040 - 4th Year/Final Research/My '
+   'Docs/Coding/Python script/dist/system_info',
+   'EXECUTABLE')],)

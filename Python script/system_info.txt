@@ -1,0 +1,95 @@
+{
+    "OS": "Darwin - Version: Darwin Kernel Version 22.6.0: Wed Jul  5 22:22:52 PDT 2023; root:xnu-8796.141.3~6/RELEASE_ARM64_T8103 - Release: 22.6.0",
+    "RAM": {
+        "Total": "8.00 GB",
+        "Used": "3.25 GB",
+        "Free": "1.81 GB",
+        "Percentage": "77.4%"
+    },
+    "CPU": {
+        "Cores": 8,
+        "Percentage": 2.6,
+        "Frequency": "Unavailable"
+    },
+    "Disks": [
+        {
+            "Device": "/dev/disk3s1s1",
+            "Total": "228.27 GB",
+            "Used": "8.54 GB",
+            "Free": "131.95 GB"
+        },
+        {
+            "Device": "/dev/disk3s6",
+            "Total": "228.27 GB",
+            "Used": "2.00 GB",
+            "Free": "131.95 GB"
+        },
+        {
+            "Device": "/dev/disk3s2",
+            "Total": "228.27 GB",
+            "Used": "4.71 GB",
+            "Free": "131.95 GB"
+        },
+        {
+            "Device": "/dev/disk3s4",
+            "Total": "228.27 GB",
+            "Used": "0.01 GB",
+            "Free": "131.95 GB"
+        },
+        {
+            "Device": "/dev/disk2s2",
+            "Total": "0.49 GB",
+            "Used": "0.01 GB",
+            "Free": "0.47 GB"
+        },
+        {
+            "Device": "/dev/disk2s1",
+            "Total": "0.49 GB",
+            "Used": "0.01 GB",
+            "Free": "0.47 GB"
+        },
+        {
+            "Device": "/dev/disk2s3",
+            "Total": "0.49 GB",
+            "Used": "0.00 GB",
+            "Free": "0.47 GB"
+        },
+        {
+            "Device": "/dev/disk3s5",
+            "Total": "228.27 GB",
+            "Used": "80.18 GB",
+            "Free": "131.95 GB"
+        },
+        {
+            "Device": "/Applications/Visual Studio Code.app",
+            "Total": "228.27 GB",
+            "Used": "75.50 GB",
+            "Free": "136.63 GB"
+        }
+    ],
+    "Battery": {
+        "Percentage": "100%",
+        "Time Left": "-2",
+        "Plugged In": true
+    },
+    "Boot_Time": 1691284224.0,
+    "System_Uptime": 921673.5344240665,
+    "Network": {
+        "Total_Bytes_Sent": 1281192960,
+        "Total_Bytes_Received": 214805504
+    },
+    "Updates": {
+        "Pending": [
+            "Software Update Tool",
+            "",
+            "Finding available software",
+            "Software Update found the following new or updated software:",
+            "* Label: Command Line Tools for Xcode-14.2",
+            "\tTitle: Command Line Tools for Xcode, Version: 14.2, Size: 687573KiB, Recommended: YES, ",
+            "* Label: Command Line Tools for Xcode-14.3",
+            "\tTitle: Command Line Tools for Xcode, Version: 14.3, Size: 711895KiB, Recommended: YES, "
+        ]
+    },
+    "GPU": "NVIDIA GPU information not available or not an NVIDIA GPU.",
+    "Motherboard": "MacBook Air"
+}
